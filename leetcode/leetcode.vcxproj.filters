@@ -14,4 +14,93 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="two_sum_2_167.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sum_square_number_633.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="reverse_vowels_345.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="valid_palindrome_680.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="merge_sorted_array_88.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="vector_learn.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="linked_list_cycle_141.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="long_word_524.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="kth_element_215.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="top_k_frequent_element_347.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sort_characters_by_frequency_451.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sort_colors_75.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="assign_cookies_455.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="non_overlapping_intervals_435.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="minimum_arrows_burst_balloons_452.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="queue_reconstruction_by_height_406.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="best_time_buy_sell_stock_121.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="best_time_buy_sell_stock_2_122.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="can_place_flowers_605.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="is_subsequence_392.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="non_decreasing_array_665.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="max_subarray_53.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="partition_labels_763.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sqrtx_69.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="find_smallest_letter_greater_than_target_744.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="single_element_in_a_sorted_array_540.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="first_bad_version_278.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="find_min_in_rotated_sorted_array_153.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="find_first_last_position_element_sorted_array_34.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
