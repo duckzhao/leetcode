@@ -143,6 +143,7 @@
     <ClCompile Include="best_time_buy_sell_stock_121.cpp" />
     <ClCompile Include="best_time_buy_sell_stock_2_122.cpp" />
     <ClCompile Include="can_place_flowers_605.cpp" />
+    <ClCompile Include="different_ways_to_add_parentheses_241.cpp" />
     <ClCompile Include="find_first_last_position_element_sorted_array_34.cpp" />
     <ClCompile Include="find_min_in_rotated_sorted_array_153.cpp" />
     <ClCompile Include="find_smallest_letter_greater_than_target_744.cpp" />
@@ -166,6 +167,7 @@
     <ClCompile Include="sum_square_number_633.cpp" />
     <ClCompile Include="top_k_frequent_element_347.cpp" />
     <ClCompile Include="two_sum_2_167.cpp" />
+    <ClCompile Include="unique_binary_search_trees_2_95.cpp" />
     <ClCompile Include="valid_palindrome_680.cpp" />
     <ClCompile Include="vector_learn.cpp" />
   </ItemGroup>

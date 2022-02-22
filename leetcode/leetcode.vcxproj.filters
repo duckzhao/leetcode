@@ -102,5 +102,11 @@
     <ClCompile Include="find_first_last_position_element_sorted_array_34.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="different_ways_to_add_parentheses_241.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unique_binary_search_trees_2_95.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

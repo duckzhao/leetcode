@@ -54,6 +54,12 @@ int main1() {
 	// 字符和数字之间的关系
 	cout << "字符和数字的关系" << a  << b << endl;
 
+	// vector中存放空指针可以遍历嘛？ 的确可以遍历
+	vector<int*> vp = { nullptr };
+	for (auto p : vp)
+	{
+		cout << "空指针可以遍历" << endl;
+	}
 
 	return 0;
 }
