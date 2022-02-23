@@ -158,8 +158,10 @@
     <ClCompile Include="non_decreasing_array_665.cpp" />
     <ClCompile Include="non_overlapping_intervals_435.cpp" />
     <ClCompile Include="partition_labels_763.cpp" />
+    <ClCompile Include="perfect_squares_279.cpp" />
     <ClCompile Include="queue_reconstruction_by_height_406.cpp" />
     <ClCompile Include="reverse_vowels_345.cpp" />
+    <ClCompile Include="shortest_path_in_binary_matrix_1091.cpp" />
     <ClCompile Include="single_element_in_a_sorted_array_540.cpp" />
     <ClCompile Include="sort_characters_by_frequency_451.cpp" />
     <ClCompile Include="sort_colors_75.cpp" />
@@ -170,6 +172,7 @@
     <ClCompile Include="unique_binary_search_trees_2_95.cpp" />
     <ClCompile Include="valid_palindrome_680.cpp" />
     <ClCompile Include="vector_learn.cpp" />
+    <ClCompile Include="word_ladder_127.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

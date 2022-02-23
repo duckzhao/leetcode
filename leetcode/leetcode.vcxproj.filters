@@ -108,5 +108,14 @@
     <ClCompile Include="unique_binary_search_trees_2_95.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="shortest_path_in_binary_matrix_1091.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="perfect_squares_279.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="word_ladder_127.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

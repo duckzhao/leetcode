@@ -61,5 +61,10 @@ int main1() {
 		cout << "空指针可以遍历" << endl;
 	}
 
+	// vector传递有没有指针引用问题，类似python中的list那样，验证结果是不存在这个问题，传进去之后就和原来的变量没关系了
+	vector<vector<int>> vint;
+	vint.push_back(v3);
+	v3.push_back(222);
+
 	return 0;
 }
