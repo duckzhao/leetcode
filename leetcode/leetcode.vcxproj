@@ -148,15 +148,19 @@
     <ClCompile Include="find_min_in_rotated_sorted_array_153.cpp" />
     <ClCompile Include="find_smallest_letter_greater_than_target_744.cpp" />
     <ClCompile Include="first_bad_version_278.cpp" />
+    <ClCompile Include="number_of_provinces_547.cpp" />
     <ClCompile Include="is_subsequence_392.cpp" />
     <ClCompile Include="kth_element_215.cpp" />
     <ClCompile Include="linked_list_cycle_141.cpp" />
     <ClCompile Include="long_word_524.cpp" />
+    <ClCompile Include="max_area_of_island_695.cpp" />
     <ClCompile Include="max_subarray_53.cpp" />
     <ClCompile Include="merge_sorted_array_88.cpp" />
     <ClCompile Include="minimum_arrows_burst_balloons_452.cpp" />
     <ClCompile Include="non_decreasing_array_665.cpp" />
     <ClCompile Include="non_overlapping_intervals_435.cpp" />
+    <ClCompile Include="number_of_islands_200.cpp" />
+    <ClCompile Include="pacific_atlantic_water_flow_417.cpp" />
     <ClCompile Include="partition_labels_763.cpp" />
     <ClCompile Include="perfect_squares_279.cpp" />
     <ClCompile Include="queue_reconstruction_by_height_406.cpp" />
@@ -167,6 +171,7 @@
     <ClCompile Include="sort_colors_75.cpp" />
     <ClCompile Include="sqrtx_69.cpp" />
     <ClCompile Include="sum_square_number_633.cpp" />
+    <ClCompile Include="surrounded_regions_130.cpp" />
     <ClCompile Include="top_k_frequent_element_347.cpp" />
     <ClCompile Include="two_sum_2_167.cpp" />
     <ClCompile Include="unique_binary_search_trees_2_95.cpp" />

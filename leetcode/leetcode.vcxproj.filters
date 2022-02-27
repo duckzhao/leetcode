@@ -117,5 +117,20 @@
     <ClCompile Include="word_ladder_127.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="max_area_of_island_695.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="number_of_islands_200.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="number_of_provinces_547.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="surrounded_regions_130.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pacific_atlantic_water_flow_417.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
