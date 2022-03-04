@@ -66,5 +66,16 @@ int main1() {
 	vint.push_back(v3);
 	v3.push_back(222);
 
+
+	// 字符串和字符相加？这个是可以的
+	string s1 = "a";
+	s1 = s1 + 'a';
+	cout << "字符串和字符相加" << s1 << endl;
+
+
+	// vector中元素引用问题
+	vector<vector<int>> testv = { {1}, {2} };
+	testv[0].push_back(2);	// 会对testv造成影响
+
 	return 0;
 }

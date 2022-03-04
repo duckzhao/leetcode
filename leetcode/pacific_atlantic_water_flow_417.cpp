@@ -76,4 +76,5 @@ int main417() {
     Solution s;
     vector<vector<int>> heights = { {1,1},{1,1},{1,1} };
     s.pacificAtlantic(heights);
+    return 0;
 }

@@ -132,5 +132,50 @@
     <ClCompile Include="pacific_atlantic_water_flow_417.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="letter_combinations_of_a_phone_number_17.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="restore_ip_addresses_93.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="word_search_79.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="binary_tree_paths_257.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="permutations_46.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="permutations_2_47.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="combinations_77.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="combination_sum_39.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="combination_sum_2_40.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="combination_sum_3_216.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="subsets_78.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="subsets_2_90.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="palindrome_partitioning_131.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sudoku_solver_37.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n_queens_51.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
